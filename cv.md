@@ -46,7 +46,7 @@ I sustained solutions and developed from scratch under the **B2B squad**: **Exte
 ### Junior Software Engineer at [Dasa](https://www.linkedin.com/company/dasa/) | 12/2018 - 02/2020
 > *Largest Brazilian group of diagnostic clinics*
 
-I implemented an integration between **WhatsApp Business Platform** and **ChatBot** partner system. During the work experience I'd contact with **Agile Kanban Methodology**, **BitBucket repositories**, **Java Spring Boot REST APIs**, build tool **Maven**, **Microsoft Azure**, CI/CD pipelines using **Jenkins** and **Docker** containers orchestration using **Kubernetes**.
+I implemented an integration between **WhatsApp Business Platform** and **ChatBot** system from partner company. During the work experience I'd been working with **Agile Kanban Methodology**, **BitBucket repositories**, **Java Spring Boot REST APIs**, build tool **Maven**, **Microsoft Azure**, CI/CD pipelines using **Jenkins** and **Docker** containers orchestration using **Kubernetes**.
 
 ### Frontend Freelancer at [Live University](https://www.linkedin.com/school/liveuuniversity/) | 11/2018 - 04/2019
 > *Brazilian company focused on executive education*
