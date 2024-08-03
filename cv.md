@@ -23,7 +23,7 @@ I am a **Flexible and Adaptable IT Professional** able to contribute to building
 ## Career History
 
 ### Senior Software Engineer at [Unico IDtech](https://www.linkedin.com/company/unicoidtech/) | 10/2021 - 01/2024
-> *Brazilian unicorn company specialised in digital identity*
+> *Brazilian startup (unicorn company) company specialised in digital identity*
 
 I sustained applications under the **B2B team** of E-Signature product. My most **impactful achievements** were:
 
