@@ -18,28 +18,28 @@ I am a **Flexible and Adaptable IT Professional** able to contribute to building
 
 * CI/CD enhancement using GitHub Actions and Spinnaker. It results in 2-3 new features deployed per week instead of 1 new feature per month.
 
-* Technical leadership in a Plug and Play project from scratch. It results in fidelity enhacement of company's clients, 60% more clients using company's E-Signature solution and costs reduction with reusable resources between internal products.
+* Technical leadership in a Plug and Play project from scratch. It results in fidelity enhancement of company's clients, 60% more clients using company's E-Signature solution and costs reduction with reusable resources between internal products.
 
 ## Career History
 
 ### Senior Software Engineer at [Unico IDtech](https://www.linkedin.com/company/unicoidtech/) | 10/2021 - 01/2024
-> *Brazilian unicorn company specialized in digital identity*
+> *Brazilian unicorn company specialised in digital identity*
 
 I sustained applications under the **B2B team** of E-Signature product. My most **impactful achievements** were:
 
-* Strategy implamentation which reduced **client's support requests queue in 80%**.
+* Strategy implementation which reduced **client's support requests queue in 80%**.
 
 * Delivered **Plug and Play WebComponents Solution from scratch** which **reduced in 90% integration time** between internal products.
 
 Daily I'd been working with: **.Net Core REST APIs, NodeJS, Postman Collections, Microsoft SQL Server, ElasticSearch, Kubernetes, Docker, NewRelic, Google Cloud Platform, GitHub projects, GitHub Actions CI pipelines and Spinnaker CD pipelines**.
 
 ### Senior Software Engineer at [dLocal](https://www.linkedin.com/company/dlocal/) | 07/2021 - 10/2021
-> *Uruguayan financial company specializing in crossborder transfers*
+> *Uruguayan financial company specialising in cross-border transfers*
 
 I worked to improve the REST APIs for **PIX (Brazil's instant payment system) transactions** using **Java** with the framework **Quarkus**. Throughout the experience I worked with **BitBucket repositories** and **Amazon Web Services**.
 
 ### Software Engineer at [PicPay](https://www.linkedin.com/company/picpay/) | 03/2020 - 06/2021
-> *Brazilian financial company specialized in simplifying the relationship with money*
+> *Brazilian financial company specialised in simplifying the relationship with money*
 
 I sustained solutions and developed from scratch under the **B2B squad**: **External Payment Link**, **QRCode Payment** and **External Checkout Payment Experience**. As Backend Developer I worked with **GitHub repositories**, **PHP** web applications, **Amazon Web Services**, **Continuous Deployment** pipelines for **Harness**, **PostgresSQL** management using **Metabase**. I was **the Tech Talks host** bringing content and lectures in order **to disseminate knowledge to all technical people of the company**. I was **technical leader** of the **TEF** system integration **MVP** in sales terminal writing te solution using **Java, Spring Boot and Gradle**.
 
@@ -60,11 +60,11 @@ As an intern, I supported **on-premise** web systems including:
 
 * Implementing features and solving issues in **Spring Boot**, **Spring MVC**, and **Spring Data** applications, using **Tomcat** or **Undertow** servers and **JSP pages**.
 
-* Queries optimization in **Microsoft SQL Server**.
+* Queries optimisation in **Microsoft SQL Server**.
 
 * **Unit and Integration tests** following **Test Driven Development (TDD)**.
 
-* Through mentoring I honed skills in **independent learning** and **troubleshooting** by analyzing **logs and stack trace exceptions**.
+* Through mentoring I honed skills in **independent learning** and **troubleshooting** by analysing **logs and stack trace exceptions**.
 
 ## Volunteering
 
@@ -88,7 +88,7 @@ Computer Technician at [ETEC - Paulistano](https://www.linkedin.com/school/etecs
 
 ## Personal Interests
 
-* **Coffee Enthusiast** - I love tasting new flavors and experimenting with new ways to prepare my morning coffee.
+* **Coffee Enthusiast** - I love tasting new flavours and experimenting with new ways to prepare my morning coffee.
 
 * **Digital Nomad** - I live and work anywhere, immersing myself in new cultures and meeting new people.
 
