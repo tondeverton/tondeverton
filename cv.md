@@ -1,6 +1,6 @@
 # Everton Pereira
 
-Software Engineer | Test Developer | Freelancer | Java | C# | GO Lang
+Software Engineer | Backend Developer | Freelancer | Java | C# | GO Lang
 
 Cork - Ireland
 
@@ -10,17 +10,15 @@ https://www.linkedin.com/in/tondeverton | https://github.com/tondeverton
 
 ## Personal Summary
 
-I am a **Flexible and Adaptable Professional** able to contribute to building solutions aligned with the priorities and the expectations of product and business **independent of languages and technologies**. In the last **9 years**, I've been working mainly on **backend solutions** to deliver **scalability**, **traceability** and **confidence** using **Clean Code** and development of **Tests**.
+I am a **Flexible and Adaptable IT Professional** able to contribute to building solutions aligned with Product/Business expectations and priorities **independent of languages and technologies**. In the last **9 years** I've been working as **Backend Developer** to deliver solutions with **scalability**, **traceability** and **confidence** using **Clean Code** and **Test Development**.
 
 ## Career Achievements
 
-* Quick learn of a new language (C#) and enhancement of code coverage in a classic project (5 years old), increasing it from 30% to 80% of code coverage.
+* Quick learn and test culture implementation in a classic project (6+ years old). It results in 80% reduction in the client's support requests queue.
 
-* Enhancement of Git flow and CI/CD pipelines, leading to a rise in production deliveries from 1 per month to 3 per week
+* CI/CD enhancement using GitHub Actions and Spinnaker. It results in 2-3 new features deployed per week instead of 1 new feature per month.
 
-* Technical leadership in a Plug and Play project from scratch with a mid-level Frontend, junior Backend, and senior QA.
-
-* Hosting company Tech Talks to encourage knowledge sharing within the company.
+* Technical leadership in a Plug and Play project from scratch. It results in fidelity enhacement of company's clients, 60% more clients using company's E-Signature solution and costs reduction with reusable resources between internal products.
 
 ## Career History
 
