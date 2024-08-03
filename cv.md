@@ -1,6 +1,6 @@
 # Everton Pereira
 
-Software Engineer | Backend Developer | Java | C# | GO Lang
+Software Engineer | Backend Developer
 
 Cork - Ireland
 
