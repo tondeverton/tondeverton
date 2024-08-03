@@ -41,7 +41,7 @@ I worked to improve the REST APIs for **PIX (Brazil's instant payment system) tr
 ### Software Engineer at [PicPay](https://www.linkedin.com/company/picpay/) | 03/2020 - 06/2021
 > *Brazilian financial company specialized in simplifying the relationship with money*
 
-I sustained solutions and developed from scratch under the **B2B squad**: **External Payment Link**, **QRCode Payment** and **External Checkout Payment Experience**. As Software Developer I've worked with **GitHub repositories**, **PHP** web applications, **Amazon Web Services**, **Continuous Deployment** pipelines for **Harness**, **Postgres** management using **Metabase**. I was **the Tech Talks host** bringing content and lectures in order **to disseminate knowledge to all technical people of the company**. I was **technical leader** of the **TEF** system integration **MVP** in sales terminal writing code mainly with **Java, Spring Boot and Gradle**.
+I sustained solutions and developed from scratch under the **B2B squad**: **External Payment Link**, **QRCode Payment** and **External Checkout Payment Experience**. As Backend Developer I worked with **GitHub repositories**, **PHP** web applications, **Amazon Web Services**, **Continuous Deployment** pipelines for **Harness**, **PostgresSQL** management using **Metabase**. I was **the Tech Talks host** bringing content and lectures in order **to disseminate knowledge to all technical people of the company**. I was **technical leader** of the **TEF** system integration **MVP** in sales terminal writing te solution using **Java, Spring Boot and Gradle**.
 
 ### Junior Software Engineer at [Dasa](https://www.linkedin.com/company/dasa/) | 12/2018 - 02/2020
 > *Largest Brazilian group of diagnostic clinics*
