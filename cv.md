@@ -51,7 +51,7 @@ I implemented an integration between **WhatsApp Business Platform** and **ChatBo
 ### Frontend Freelancer at [Live University](https://www.linkedin.com/school/liveuuniversity/) | 11/2018 - 04/2019
 > *Brazilian company focused on executive education*
 
-As a **Freelancer 100% remote** on [Upwork](https://www.upwork.com/) platform, I delivered **EJS** pages in webviews for **Cordova** application.
+As a **Freelancer 100% remote** in [Upwork](https://www.upwork.com/) platform, I delivered **EJS** pages in webviews for **Cordova** application.
 
 ### Intern Software Engineer at [MarketData](https://www.linkedin.com/company/marketdata/) | 08/2016 - 12/2017
 > *Brazilian company awarded in delivery of marketing solutions*
