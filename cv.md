@@ -4,9 +4,9 @@ Software Engineer | Backend Developer | Freelancer | Java | C# | GO Lang
 
 Cork - Ireland
 
-me@tondeverton.com | +353 089 462 8908
+[me@tondeverton.com](mailto:me@tondeverton.com) | [+353 089 462 8908](tel:+3530894628908)
 
-https://www.linkedin.com/in/tondeverton | https://github.com/tondeverton
+[https://www.linkedin.com/in/tondeverton](https://www.linkedin.com/in/tondeverton) | [https://github.com/tondeverton](https://github.com/tondeverton)
 
 ## Personal Summary
 
