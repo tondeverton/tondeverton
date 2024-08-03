@@ -27,11 +27,11 @@ I am a **Flexible and Adaptable IT Professional** able to contribute to building
 
 I sustained applications under the **B2B team** of E-Signature product. My most **impactful achievements** were:
 
-* Strategy implamentation which reduced **client's support requests queue in 80%**
+* Strategy implamentation which reduced **client's support requests queue in 80%**.
 
-* Delivered **Plug and Play WebComponents Solution from scratch** which **reduced in 90% integration time** between internal products
+* Delivered **Plug and Play WebComponents Solution from scratch** which **reduced in 90% integration time** between internal products.
 
-Daily I'd worked with: **.Net Core REST API, Postman Collections, Microsoft SQL Server, ElasticSearch, Kubernetes, Docker, NewRelic, IDEs JetBrains, Google Cloud Platform, GitHub projects, GitHub Actions CI pipelines and Spinnaker CD pipelines**.
+Daily I'd been working with: **.Net Core REST APIs, NodeJS, Postman Collections, Microsoft SQL Server, ElasticSearch, Kubernetes, Docker, NewRelic, Google Cloud Platform, GitHub projects, GitHub Actions CI pipelines and Spinnaker CD pipelines**.
 
 ### Senior Software Engineer at [dLocal](https://www.linkedin.com/company/dlocal/) | 07/2021 - 10/2021 (3 months)
 > *Uruguayan financial company specializing in crossborder transfers*
