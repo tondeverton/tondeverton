@@ -22,7 +22,7 @@ I am a **Flexible and Adaptable IT Professional** able to contribute to building
 
 ## Career History
 
-### Senior Software Engineer at [Unico IDtech](https://www.linkedin.com/company/unicoidtech/) | 10/2021 - 01/2024 (2.4 years)
+### Senior Software Engineer at [Unico IDtech](https://www.linkedin.com/company/unicoidtech/) | 10/2021 - 01/2024
 > *Brazilian unicorn company specialized in digital identity*
 
 I sustained applications under the **B2B team** of E-Signature product. My most **impactful achievements** were:
@@ -33,27 +33,27 @@ I sustained applications under the **B2B team** of E-Signature product. My most 
 
 Daily I'd been working with: **.Net Core REST APIs, NodeJS, Postman Collections, Microsoft SQL Server, ElasticSearch, Kubernetes, Docker, NewRelic, Google Cloud Platform, GitHub projects, GitHub Actions CI pipelines and Spinnaker CD pipelines**.
 
-### Senior Software Engineer at [dLocal](https://www.linkedin.com/company/dlocal/) | 07/2021 - 10/2021 (3 months)
+### Senior Software Engineer at [dLocal](https://www.linkedin.com/company/dlocal/) | 07/2021 - 10/2021
 > *Uruguayan financial company specializing in crossborder transfers*
 
-I worked to improve the REST API for **PIX (Brazil's instant payment system) transactions** using **Java** with the framework **Quarkus**. Throughout the experience I worked with **BitBucket repositories** and **Amazon Web Services**.
+I worked to improve the REST APIs for **PIX (Brazil's instant payment system) transactions** using **Java** with the framework **Quarkus**. Throughout the experience I worked with **BitBucket repositories** and **Amazon Web Services**.
 
-### Software Engineer at [PicPay](https://www.linkedin.com/company/picpay/) | 03/2020 - 06/2021 (1.5 years)
+### Software Engineer at [PicPay](https://www.linkedin.com/company/picpay/) | 03/2020 - 06/2021
 > *Brazilian financial company specialized in simplifying the relationship with money*
 
 I sustained solutions and developed from scratch under the **B2B squad**: **External Payment Link**, **QRCode Payment** and **External Checkout Payment Experience**. As Software Developer I've worked with **GitHub repositories**, **PHP** web applications, **Amazon Web Services**, **Continuous Deployment** pipelines for **Harness**, **Postgres** management using **Metabase**. I was **the Tech Talks host** bringing content and lectures in order **to disseminate knowledge to all technical people of the company**. I was **technical leader** of the **TEF** system integration **MVP** in sales terminal writing code mainly with **Java, Spring Boot and Gradle**.
 
-### Junior Software Engineer at [Dasa](https://www.linkedin.com/company/dasa/) | 12/2018 - 02/2020 (1.3 years)
+### Junior Software Engineer at [Dasa](https://www.linkedin.com/company/dasa/) | 12/2018 - 02/2020
 > *Largest Brazilian group of diagnostic clinics*
 
 I implemented an integration between **WhatsApp Business Platform** and **ChatBot** partner system. During the work experience I'd contact with **Agile Kanban Methodology**, **BitBucket repositories**, **Java Spring Boot REST APIs**, build tool **Maven**, **Microsoft Azure**, CI/CD pipelines using **Jenkins** and **Docker** containers orchestration using **Kubernetes**.
 
-### Frontend Freelancer at [Live University](https://www.linkedin.com/school/liveuuniversity/) | 11/2018 - 04/2019 (5 months)
+### Frontend Freelancer at [Live University](https://www.linkedin.com/school/liveuuniversity/) | 11/2018 - 04/2019
 > *Brazilian company focused on executive education*
 
 As a **Freelancer 100% remote** on [Upwork](https://www.upwork.com/) platform, I delivered **EJS** pages in webviews for **Cordova** application.
 
-### Intern Software Engineer at [MarketData](https://www.linkedin.com/company/marketdata/) | 08/2016 - 12/2017 (1.5 years)
+### Intern Software Engineer at [MarketData](https://www.linkedin.com/company/marketdata/) | 08/2016 - 12/2017
 > *Brazilian company awarded in delivery of marketing solutions*
 
 As an intern, I supported **on-premise** web systems including:
@@ -68,7 +68,7 @@ As an intern, I supported **on-premise** web systems including:
 
 ## Volunteering
 
-### Technical Lab Support at [ETEC - Paulistano](https://www.linkedin.com/school/etecsp/) | 01/2015 - 06/2015 (6 months)
+### Technical Lab Support at [ETEC - Paulistano](https://www.linkedin.com/school/etecsp/) | 01/2015 - 06/2015
 
 I installed new computers in 5 labs each containing 27 machines. I installed and updated IDEs following the most popular softwares used. This volunteering helped the students optimize code productivity and learn new ways to deliver different kinds of software such as REST APIs, robust frontend pages, and mobile apps.
 
