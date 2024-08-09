@@ -74,7 +74,7 @@ I installed new computers in 5 labs each containing 27 machines. I installed and
 
 ## Education
 
-General English as [Griffith College](https://www.griffith.ie/) | *04/2024 - present*
+General English at [Griffith College](https://www.griffith.ie/) | *04/2024 - present*
 
 Technologist in Systems Analysis and Development at [FATEC - SP](https://www.linkedin.com/school/faculdade-de-tecnologia-de-s%C3%A3o-paulo-fatec-sp/) | *04/2016 - 06/2019*
 
