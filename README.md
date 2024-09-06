@@ -90,6 +90,6 @@ Computer Technician at [ETEC - Paulistano](https://www.linkedin.com/school/etecs
 
 * **Coffee Enthusiast** - I love tasting new flavours and experimenting with new ways to prepare my morning coffee.
 
-* **Digital Nomad** - I live and work anywhere, immersing myself in new cultures and meeting new people.
-
 * **Cinephile** - I enjoy watching movies in the cinema every month.
+
+* **Dancer** - I love practicing and going to parties to dance Bachata and Zouk.
