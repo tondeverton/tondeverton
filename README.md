@@ -4,7 +4,7 @@ Software Engineer | Backend Developer
 
 Cork - Ireland
 
-[se@tondeverton.com](mailto:se@tondeverton.com) | [+353 089 462 8908](tel:3530894628908)
+[contact@ton.dev.br](mailto:contact@ton.dev.br)
 
 [https://www.linkedin.com/in/tondeverton](https://www.linkedin.com/in/tondeverton) | [https://github.com/tondeverton](https://github.com/tondeverton)
 
